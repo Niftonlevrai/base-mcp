@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # Base MCP Server 🔵
 
 ![OpenRouter Integration](public/OpenRouter.gif)
